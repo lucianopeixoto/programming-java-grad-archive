@@ -1,0 +1,8 @@
+MIDlet-1: FallingWorm, , FallingWorm
+MIDlet-Jar-Size: 53174
+MIDlet-Jar-URL: FallingWorm.jar
+MIDlet-Name: FallingWorm
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
